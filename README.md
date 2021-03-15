@@ -13,6 +13,9 @@ Install Ganache CLI
 
 Install the Ganache UI: https://www.trufflesuite.com/ganache
 
+Install truffle:
+>$ npm install -g truffle
+
 Create a local project directory
 >$ mkdir CA6001I_Assignment1
 
