@@ -7,18 +7,18 @@ Install node js : https://nodejs.org/en/download/
 Install Ganache CLI
 >$ npm install -g ganache-cli
 
-Install Ganache : https://www.trufflesuite.com/ganache
+Install the Ganache UI: https://www.trufflesuite.com/ganache
 
 Create a local project directory
 >$ mkdir CA6001I_Assignment1
 
-Change directory to the locak project directory
+Change directory to the local project directory
 >$ cd CA6001I_Assignment1
 
 Clone the git repository:
 >$ git clone https://github.com/fintanduffy/CA6001I_Assignment
 
-Note the project has a number of dependencies that have already been included in the node_modules within the git repo:
+Note that this project has a number of dependencies that have already been included in the node_modules within the git repo:
 - OpenZepplin
 - Truffle Wallet Provider
 - DotEnv
@@ -30,7 +30,7 @@ To compile the project run:
 To run the test scripts, run:
 >$ truffle test
 
-To migrate to your local development network using Ganage, ensure first that you have launched the Ganache UI.
+To migrate to your local development network using Ganage, ensure that you have launched the Ganache UI.
 Then run:
 >$ truffle migrate
 
