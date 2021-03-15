@@ -3,10 +3,10 @@
 Enure you have the metamask extension installed on your browser.
 
 Install node js : 
-sudo apt install nodejs
+>$ sudo apt install nodejs
 
 Install node package manager:
-sudo apt install npm
+>$ sudo apt install npm
 
 Install Ganache CLI
 >$ npm install -g ganache-cli
