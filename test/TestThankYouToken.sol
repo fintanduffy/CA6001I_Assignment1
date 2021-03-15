@@ -12,7 +12,7 @@ contract TestThankYouToken {
   string expectedSymbol = "THKU";
   uint expectedSupply = 1000000;
 
-  address receiptAddress = 0xa97d68b5210e9fE1eAeF81f9C86CB6b53653dD04;
+  address receiptAddress = 0xCf48B1E95ddf6455dFc59a434fE27e5DE0D40EFe;
 
   // Testing the token attributes function
   function testTokenName() public {

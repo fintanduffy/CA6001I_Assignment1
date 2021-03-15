@@ -7,7 +7,7 @@ import "openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 contract ThankYouToken is ERC20 {
 
   // Token name = ThankYou
-  // Token symbol = THKU1
+  // Token symbol = THKU
    
   // Setting the initial supply to 1,000,000
 
