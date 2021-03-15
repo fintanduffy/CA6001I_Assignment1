@@ -20,7 +20,7 @@ Change directory to the local project directory
 >$ cd CA6001I_Assignment1
 
 Clone the git repository:
->$ git clone https://github.com/fintanduffy/CA6001I_Assignment
+>$ git clone https://github.com/fintanduffy/CA6001I_Assignment1
 
 Note that this project has a number of dependencies that have already been included in the node_modules within the git repo:
 - OpenZepplin
